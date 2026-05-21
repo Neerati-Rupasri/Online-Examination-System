@@ -52,6 +52,7 @@ src/
     Main.java
     
 🛠️ Technologies Used
+
 Java
 Java Swing
 JDBC
@@ -70,6 +71,7 @@ DBConnection.java
 Run the Main.java file
 
 💡 Future Enhancements
+
 Add admin dashboard for question management
 Implement student registration system
 Add webcam monitoring for secure exams
@@ -78,7 +80,9 @@ Integrate cloud database and online hosting
 Generate downloadable result reports
 
 👨‍💻 Author
+
 Neerati Rupasri 
 
 ⭐ Conclusion
+
 The Online Examination System provides an efficient and reliable platform for conducting examinations digitally. It reduces manual work, minimizes errors in evaluation, saves time, and generates quick results automatically. The project also demonstrates important Java concepts such as GUI programming, multithreading, database connectivity, and object-oriented programming, making it a valuable real-time Java application.
