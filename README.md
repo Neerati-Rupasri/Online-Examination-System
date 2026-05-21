@@ -63,7 +63,7 @@ IntelliJ IDEA / NetBeans
 
 Clone the repository:
 Bash
-git clone https://github.com/Online-Examination-System.git
+git clone https://github.com/Neerati-Rupasri/Online-Examination-System/tree/main.git
 Open the project in IntelliJ IDEA or NetBeans
 Configure MySQL database and update database credentials in:
 Plain text
