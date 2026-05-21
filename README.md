@@ -1,4 +1,4 @@
-🖥️ Online Examination System (Java Project)
+🖥️ Online Examination System
 📌 Project Description
 The Online Examination System is a Java-based desktop application developed to automate the process of conducting examinations and evaluating student performance. It provides a computerized solution for managing online tests efficiently and accurately.
 The system allows users to log in securely, attend multiple-choice examinations, answer questions within a specified time limit, and receive instant results after submission. The project is designed using Java technologies and demonstrates the implementation of real-world software development concepts.
