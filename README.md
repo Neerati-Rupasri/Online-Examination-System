@@ -1,10 +1,13 @@
 🖥️ Online Examination System
+
 📌 Project Description
+
 The Online Examination System is a Java-based desktop application developed to automate the process of conducting examinations and evaluating student performance. It provides a computerized solution for managing online tests efficiently and accurately.
 The system allows users to log in securely, attend multiple-choice examinations, answer questions within a specified time limit, and receive instant results after submission. The project is designed using Java technologies and demonstrates the implementation of real-world software development concepts.
 The application uses Java Swing for graphical user interface development, JDBC for database connectivity, and MySQL for storing student, exam, and result data.
 
 🚀 Features
+
 Secure user login authentication
 Multiple-choice online examinations
 Timer functionality using multithreading
@@ -15,6 +18,7 @@ Database storage using MySQL
 User-friendly graphical interface
 
 🧠 Concepts Used
+
 Object-Oriented Programming (OOP): Classes and objects are used for modular design
 Encapsulation: Data members are protected using private access modifiers and getter/setter methods
 Multithreading: Timer functionality is implemented using Java Threads
@@ -23,6 +27,7 @@ GUI Programming: Java Swing is used for creating interactive user interfaces
 Database Connectivity: JDBC is used to connect Java application with MySQL database
 
 📁 Project Structure
+
 Plain text
 src/
 ├── database/
@@ -54,6 +59,7 @@ MySQL
 IntelliJ IDEA / NetBeans
 
 ▶️ How to Run
+
 Clone the repository:
 Bash
 git clone https://github.com/your-repository-link.git
